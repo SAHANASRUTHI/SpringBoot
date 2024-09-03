@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:8080/persons";
+const baseUrl = "http://localhost:8080/person";
  
 // Function to get all persons
 function getItems() {
